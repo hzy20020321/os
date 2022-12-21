@@ -1,0 +1,6 @@
+1.a0,13
+2.nowhere
+3.000000000000064a
+4.0x38
+5.i->0x726c6400,57616 keeps
+6.x=3,y=a random number;the value of y is not given,so it is random.
